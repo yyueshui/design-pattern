@@ -1,0 +1,21 @@
+{
+    "name": "yyueshui/design-pattern",
+    "description": "design-pattern",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yyueshui",
+            "email": "18676756298@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Felix\\": "src"
+        }
+    }
+}
