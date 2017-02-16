@@ -12,7 +12,7 @@ use Felix\Factory\Color\Blue;
 
 class BlueTest extends \PHPUnit_Framework_TestCase
 {
-	public function makeTest()
+	public function testmake()
 	{
 		$this->assertEquals('blue', (new Blue())->make());
 	}
