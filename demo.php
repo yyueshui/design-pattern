@@ -18,4 +18,6 @@ $redHouse = new Red();
 echo $blueHouse->brushing()->make();
 echo "\n";
 echo $redHouse->brushing()->make();
+echo "\n";
+
 
